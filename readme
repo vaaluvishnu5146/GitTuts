@@ -5,3 +5,5 @@ git commit -m="Passenger kindly put on seat belts"
 git push - This will help us to push the current working repository to cloud
 // Whatever project that we create in Guthub we can able to lin the Github project with Git using the below command
 git remote add origin https://github.com/vaaluvishnu5146/GitTuts.git
+// To create a new branch:
+git checkout -b {branch_name}
