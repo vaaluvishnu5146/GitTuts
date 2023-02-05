@@ -1,1 +1,7 @@
 git init - will initialise git projewct in the current working directory
+git add {relative_file_path} - will make person seated in the flight
+git add . - will make everyone wating outside to get onto flight
+git commit -m="Passenger kindly put on seat belts"
+git push - This will help us to push the current working repository to cloud
+// Whatever project that we create in Guthub we can able to lin the Github project with Git using the below command
+git remote add origin https://github.com/vaaluvishnu5146/GitTuts.git
